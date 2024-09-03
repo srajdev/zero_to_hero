@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+vnn_course_env/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
